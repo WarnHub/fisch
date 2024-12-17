@@ -1,0 +1,1 @@
+return {"Squid","Seaweed","Magnet","Minnow","Coral","Peppermint Worm"}
