@@ -1,0 +1,1 @@
+return {"Truffle Worm", "Weird Algae", "Fish Head", "Night Shrimp", "Instant Catcher", "Deep Coral", "Holly Berry"}
